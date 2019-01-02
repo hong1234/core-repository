@@ -1,0 +1,19 @@
+
+[submodule "src/Foggyline/CustomerBundle"]
+	path = src/Foggyline/CustomerBundle
+	url = git@github.com:hong1234/customer-repository.git
+[submodule "src/Foggyline/CatalogBundle"]
+	path = src/Foggyline/CatalogBundle
+	url = git@github.com:hong1234/catalog-repository.git
+[submodule "src/Foggyline/PaymentBundle"]
+	path = src/Foggyline/PaymentBundle
+	url = git@github.com:hong1234/payment-repository.git
+[submodule "src/Foggyline/SalesBundle"]
+	path = src/Foggyline/SalesBundle
+	url = git@github.com:hong1234/sales-repository.git
+[submodule "src/Foggyline/ShipmentBundle"]
+	path = src/Foggyline/ShipmentBundle
+	url = git@github.com:hong1234/shipment-repository.git
+[submodule "src/Foggyline/TestBundle"]
+	path = src/Foggyline/TestBundle
+	url = git@github.com:hong1234/test-repository.git
